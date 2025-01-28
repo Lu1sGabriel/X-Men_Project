@@ -41,13 +41,12 @@ A estrutura de diretórios do projeto está organizada da seguinte forma:
 ```plaintext
 main/
 │
+├── index.html                 # Arquivo principal HTML que contém a estrutura da página
 ├── src/
 │   ├── css/
 │   │   ├── reset.css          # Estilos de reset para normalização de margens e preenchimentos
 │   │   ├── responsivo.css     # Estilos para responsividade em dispositivos móveis e tablets
 │   │   └── style.css          # Estilos principais da página, incluindo cores, fontes e layout
-│   ├── html/
-│   │   └── index.html         # Arquivo principal HTML que contém a estrutura da página
 │   ├── js/
 │   │   └── script.js          # Arquivo JavaScript (não implementado, futuro código para interatividade)
 │   └── imagens/
