@@ -9,7 +9,6 @@ Este é um projeto de uma página web interativa onde o usuário pode selecionar
 - [Estrutura de Diretórios](#estrutura-de-diretórios)
 - [Como Rodar o Projeto](#como-rodar-o-projeto)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Descrição do Projeto
 
